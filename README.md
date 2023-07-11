@@ -1,4 +1,12 @@
-# 001
+# Speech to Text transcription App
+
+## React.js Frontend
+
+## Express Backend 
+
+## Socket.io for Communication 
+
+## Google Speech API for recognition
 
 ## Setup for the App 
 
